@@ -1,6 +1,6 @@
 # pyroot
 
-###function roots
+### function roots
 
 I would like to add sample solvers for all of the root finding methods.  If you know of another method, please let me know.
 
